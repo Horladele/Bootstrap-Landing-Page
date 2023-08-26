@@ -1,0 +1,24 @@
+*{
+background-color: blueviolet;
+
+padding: 0%; margin: 0%;
+
+}
+h2{color: yellow;
+    
+
+
+    }
+
+span{color: peru; background-color: black;}
+
+#secondHeader{
+    background-color: orange;
+}
+.secondClass{background-color: black;
+
+}
+.section1{background-color: green; color: white;
+    text-align: center; margin: 5rem auto 10rem;
+
+}
